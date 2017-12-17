@@ -22,13 +22,13 @@ We collect information from you when you or enter information on our site.
 
 
 
-<br><h4>How do we use your information?</h4>
+<br><h3>How do we use your information?</h3>
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
       • To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-<br><h4>How do we protect your information?</h4>
+<br><h3>How do we protect your information?</h3>
 
 We do not use vulnerability scanning and/or scanning to PCI standards.
 We only provide articles and information. We never ask for credit card numbers.
