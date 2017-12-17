@@ -8,7 +8,7 @@ This privacy policy has been compiled to better serve those who are concerned wi
 When ordering or registering on our site, as appropriate, you may be asked to enter your mobile's camera permission, device storage read/write permissions, account permission, microphone permission, contacts permission, phone permission or other details to help you with your experience.
 
 <br>
-<h4>When do we collect information?</h4>
+<h3>When do we collect information?</h3>
 
 We collect information from you when you or enter information on our site.
 
