@@ -133,7 +133,7 @@ If there are any questions regarding this privacy policy, you may contact us usi
 
 Mrs Chandrakala Jayachandran,
 Phoenix Lab Apps,
-#4, Pride Orchid, Thubarahalli
+#3, Pride Orchid, Thubarahalli
 Bangalore, KARNATAKA 560066
 India
 chandrakalaj@gmail.com
